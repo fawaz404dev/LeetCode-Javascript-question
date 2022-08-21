@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/longest-palindromic-substring/
 // Author : Fawaz Jomah
-// Date   : 2015-06-02
+// Date   : 2021-06-02
 
 /**********************************************************************************
  *

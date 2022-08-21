@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/implement-stack-using-queues/
 // Author : Fawaz Jomah
-// Date   : 2015-06-13
+// Date   : 2021-06-13
 
 /**********************************************************************************
  *
@@ -26,7 +26,7 @@
  * You may assume that all operations are valid (for example, no pop or top operations
  * will be called on an empty stack).
  *
- * Update (2015-06-11):
+ * Update (2021-06-11):
  * The class name of the Java function had been updated to MyStack instead of Stack.
  *
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and all test cases.

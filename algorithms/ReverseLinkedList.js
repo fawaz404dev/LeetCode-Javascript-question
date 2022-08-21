@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/reverse-linked-list/
 // Author : Fawaz Jomah
-// Date   : 2015-06-12
+// Date   : 2021-06-12
 
 /**********************************************************************************
  *

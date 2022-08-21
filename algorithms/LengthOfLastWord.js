@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/length-of-last-word/
 // Author : Fawaz Jomah
-// Date   : 2015-06-16
+// Date   : 2021-06-16
 
 /**********************************************************************************
  *

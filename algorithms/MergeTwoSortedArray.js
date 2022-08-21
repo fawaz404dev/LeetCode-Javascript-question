@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/merge-sorted-array/
 // Author : Fawaz Jomah
-// Date   : 2015-05-29
+// Date   : 2021-05-29
 
 /**********************************************************************************
  *

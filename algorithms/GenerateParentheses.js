@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/generate-parentheses/
 // Author : Fawaz Jomah
-// Date   : 2015-06-12
+// Date   : 2021-06-12
 
 /**********************************************************************************
  *

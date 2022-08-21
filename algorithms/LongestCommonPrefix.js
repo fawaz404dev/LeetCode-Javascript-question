@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/longest-common-prefix
 // Author : Fawaz Jomah
-// Date   : 2015-06-08
+// Date   : 2021-06-08
 
 /***************************************************************************************
  *

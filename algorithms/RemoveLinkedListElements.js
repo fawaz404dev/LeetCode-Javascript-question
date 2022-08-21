@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/remove-linked-list-elements/
 // Author : Fawaz Jomah
-// Date   : 2015-06-16
+// Date   : 2021-06-16
 
 /**********************************************************************************
  *

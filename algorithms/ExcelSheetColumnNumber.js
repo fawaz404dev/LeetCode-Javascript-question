@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/excel-sheet-column-number/
 // Author : Fawaz Jomah
-// Date   : 2015-06-18
+// Date   : 2021-06-18
 
 /**********************************************************************************
  *

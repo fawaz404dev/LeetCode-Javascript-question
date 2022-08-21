@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/number-of-1-bits/
 // Author : Fawaz Jomah
-// Date   : 2015-06-16
+// Date   : 2021-06-16
 
 /**********************************************************************************
  *
